@@ -1,9 +1,7 @@
-README
 
 A simple Java implementation of the WAND top-k retrieval algorithm. Here are information regarding 
-the WAND top-k retrieval algorithm. An in-depth PowerPoint presentation: https://www.slideshare.net
-/AndrewZhang44/wand-topk-retrieval and Original paper: "Efficient Query Evaluation Using a Two-Level 
-Retrieval Process" by Andrei Z. Broder
+the WAND top-k retrieval algorithm. An in-depth PowerPoint presentation: https://www.slideshare.net/AndrewZhang44/wand-topk-retrieval 
+and Original paper: "Efficient Query Evaluation Using a Two-Level Retrieval Process" by Andrei Z. Broder
 
 Inside the TopKQuery folder issue the following command:  
 java -jar dist/TopKQuery.jar <file name> -k <K> -s<No. of Skips> -c <UB Constant>
