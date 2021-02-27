@@ -1,7 +1,7 @@
 
 A simple Java implementation of the WAND top-k retrieval algorithm. Here are information regarding 
 the WAND top-k retrieval algorithm. An in-depth power-point [presentation](https://www.slideshare.net/AndrewZhang44/wand-topk-retrieval) 
-and Original paper, [Efficient Query Evaluation Using a Two-Level Retrieval Process](https://www.researchgate.net/profile/David-Carmel-3/publication/221613425_Efficient_query_evaluation_using_a_two-level_retrieval_process/links/02bfe50e6854500153000000/Efficient-query-evaluation-using-a-two-level-retrieval-process.pdf) by Andrei Z. Broder
+and original paper, [Efficient Query Evaluation Using a Two-Level Retrieval Process](https://www.researchgate.net/profile/David-Carmel-3/publication/221613425_Efficient_query_evaluation_using_a_two-level_retrieval_process/links/02bfe50e6854500153000000/Efficient-query-evaluation-using-a-two-level-retrieval-process.pdf) by Andrei Z. Broder
 
 Inside the TopKQuery folder issue the following command:  
 
